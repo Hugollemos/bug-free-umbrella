@@ -1,2 +1,2 @@
 # bug-free-umbrella
-treino
+$treino
