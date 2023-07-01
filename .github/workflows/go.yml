@@ -18,7 +18,7 @@ jobs:
     
     
     - name: Go example
-      uses: Hugollemos/bug-free-umbrella@v1
+      uses: Hugollemos/bug-free-umbrella@v2
       
     - name: Set up Go
       uses: actions/setup-go@v3
